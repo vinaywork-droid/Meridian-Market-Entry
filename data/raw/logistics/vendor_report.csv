@@ -1,0 +1,38 @@
+BLUE DART LOGISTICS & SUPPLY CHAIN SOLUTIONS
+Distribution Feasibility Assessment – Meridian Consumer Goods Pvt. Ltd.
+Report Reference: BD-MCG-2024-FEB-047
+Prepared by: Regional Ops Team (West & South India)
+Date: February 2024
+
+SECTION 1: ROUTE & CONNECTIVITY ANALYSIS
+
+City,Route,Distance_km,Primary_Highway,Road_Condition,Avg_Transit_hrs_from_Mumbai,Transit_Reliability_%
+Nashik,Mumbai - Nashik,180,NH3,Good – 4-lane,4.5,91
+Nagpur,Mumbai - Nagpur (via NH44),872,NH44,Excellent – 6-lane expressway,14.0,95
+Mysuru,Pune - Mysuru (via Bengaluru),1289,NH275,Good – minor bottlenecks near Bengaluru,22.0,84
+
+"SECTION 2: COST STRUCTURE (per MT, INR)"
+
+City,Primary_Freight_INR_per_MT,Secondary_Distribution_INR_per_MT,Total_Logistics_Cost_INR_per_MT,vs_Mumbai_Base_%
+Nashik,2800,620,3420,100%
+Nagpur,5200,810,6010,176%
+Mysuru,7800,1140,8940,261%
+
+"SUBTOTAL NOTE: Costs indexed against Mumbai hub baseline (₹3,420/MT = 100%)"
+
+SECTION 3: WAREHOUSING
+
+City,Warehouse_Option,Available_Capacity_MT,Cost_per_sqft_monthly_INR,Cold_Chain,Min_Lease_months
+Nashik,3rd Party (Shree Dist.),450,28,Available,12
+Nagpur,Owned facility viable,820+,22,Available,N/A – capex
+Mysuru,3rd Party only,310,32,NOT available in target zones,12
+
+SECTION 4: RISK ASSESSMENT
+
+City,Last_Mile_Index_10,Stockout_Risk,Primary_Risk_Factor,Recommended_Safety_Stock_weeks
+Nashik,7.2,Medium,Monsoon road disruption (NH3 Jul-Aug),3
+Nagpur,8.4,Low,Minimal – central hub with multiple route options,2
+Mysuru,6.1,High,Distance from distribution hub + no cold chain,4
+
+END OF REPORT
+For queries contact: ops-west@bluedart.example.in

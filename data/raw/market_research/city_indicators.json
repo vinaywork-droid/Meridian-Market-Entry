@@ -1,0 +1,467 @@
+{
+  "report_metadata": {
+    "source": "Market Research International (MRI)",
+    "report_id": "MRI-IND-2024-Q2-047",
+    "coverage_period": "January 2023 \u2013 June 2024",
+    "delivery_format": "JSON API Export v2.3",
+    "generated_at": "2024-07-01T09:42:11Z",
+    "note": "Data reflects city municipal boundaries. District figures sourced separately."
+  },
+  "cities": {
+    "Nashik": {
+      "demographics": {
+        "state": "Maharashtra",
+        "classification": "Tier 2",
+        "city_population_2023": 1487053,
+        "district_population": 6107000,
+        "median_annual_hh_income_inr": 342000,
+        "urban_population_pct": 70.2,
+        "literacy_rate_pct": 87.8,
+        "gdp_growth_rate_pct_fy2324": 8.2,
+        "working_age_population_pct": 64.3
+      },
+      "income_distribution": {
+        "description": "Share of households by SEC bracket (NCCS 2023 methodology)",
+        "brackets": {
+          "SEC_A": 0.08,
+          "SEC_B": 0.18,
+          "SEC_C": 0.38,
+          "SEC_D": 0.36
+        },
+        "primary_target_segments": [
+          "SEC_B",
+          "SEC_C"
+        ]
+      },
+      "monthly_macro_indicators": [
+        {
+          "period": "2023-01",
+          "consumer_confidence_index": 108.5,
+          "retail_inflation_pct": 6.34,
+          "fmcg_category_growth_pct": 8.98,
+          "new_business_registrations": 183
+        },
+        {
+          "period": "2023-02",
+          "consumer_confidence_index": 108.5,
+          "retail_inflation_pct": 5.39,
+          "fmcg_category_growth_pct": 7.16,
+          "new_business_registrations": 186
+        },
+        {
+          "period": "2023-03",
+          "consumer_confidence_index": 108.8,
+          "retail_inflation_pct": 5.37,
+          "fmcg_category_growth_pct": 8.76,
+          "new_business_registrations": 164
+        },
+        {
+          "period": "2023-04",
+          "consumer_confidence_index": 109.4,
+          "retail_inflation_pct": 6.33,
+          "fmcg_category_growth_pct": 7.0,
+          "new_business_registrations": 183
+        },
+        {
+          "period": "2023-05",
+          "consumer_confidence_index": 109.5,
+          "retail_inflation_pct": 5.93,
+          "fmcg_category_growth_pct": 7.02,
+          "new_business_registrations": 187
+        },
+        {
+          "period": "2023-06",
+          "consumer_confidence_index": 109.3,
+          "retail_inflation_pct": 5.93,
+          "fmcg_category_growth_pct": 7.38,
+          "new_business_registrations": 190
+        },
+        {
+          "period": "2023-07",
+          "consumer_confidence_index": 110.3,
+          "retail_inflation_pct": 5.48,
+          "fmcg_category_growth_pct": 7.24,
+          "new_business_registrations": 165
+        },
+        {
+          "period": "2023-08",
+          "consumer_confidence_index": 110.3,
+          "retail_inflation_pct": 6.02,
+          "fmcg_category_growth_pct": 8.22,
+          "new_business_registrations": 180
+        },
+        {
+          "period": "2023-09",
+          "consumer_confidence_index": 110.6,
+          "retail_inflation_pct": 6.36,
+          "fmcg_category_growth_pct": 9.18,
+          "new_business_registrations": 171
+        },
+        {
+          "period": "2023-10",
+          "consumer_confidence_index": 109.7,
+          "retail_inflation_pct": 5.48,
+          "fmcg_category_growth_pct": 7.65,
+          "new_business_registrations": 169
+        },
+        {
+          "period": "2023-11",
+          "consumer_confidence_index": 110.6,
+          "retail_inflation_pct": 6.2,
+          "fmcg_category_growth_pct": 7.47,
+          "new_business_registrations": 179
+        },
+        {
+          "period": "2023-12",
+          "consumer_confidence_index": 110.4,
+          "retail_inflation_pct": 6.0,
+          "fmcg_category_growth_pct": 7.84,
+          "new_business_registrations": 168
+        },
+        {
+          "period": "2024-01",
+          "consumer_confidence_index": 110.5,
+          "retail_inflation_pct": 5.88,
+          "fmcg_category_growth_pct": 7.08,
+          "new_business_registrations": 180
+        },
+        {
+          "period": "2024-02",
+          "consumer_confidence_index": 111.3,
+          "retail_inflation_pct": 6.33,
+          "fmcg_category_growth_pct": 9.42,
+          "new_business_registrations": 176
+        },
+        {
+          "period": "2024-03",
+          "consumer_confidence_index": 111.4,
+          "retail_inflation_pct": 5.59,
+          "fmcg_category_growth_pct": 8.54,
+          "new_business_registrations": 202
+        },
+        {
+          "period": "2024-04",
+          "consumer_confidence_index": 111.7,
+          "retail_inflation_pct": 6.1,
+          "fmcg_category_growth_pct": 8.46,
+          "new_business_registrations": 186
+        },
+        {
+          "period": "2024-05",
+          "consumer_confidence_index": 111.4,
+          "retail_inflation_pct": 5.54,
+          "fmcg_category_growth_pct": 8.47,
+          "new_business_registrations": 191
+        },
+        {
+          "period": "2024-06",
+          "consumer_confidence_index": 112.0,
+          "retail_inflation_pct": 5.29,
+          "fmcg_category_growth_pct": 9.66,
+          "new_business_registrations": 186
+        }
+      ]
+    },
+    "Nagpur": {
+      "demographics": {
+        "state": "Maharashtra",
+        "classification": "Tier 2",
+        "city_population_2023": 2497777,
+        "district_population": 5109000,
+        "median_annual_hh_income_inr": 418000,
+        "urban_population_pct": 75.4,
+        "literacy_rate_pct": 91.3,
+        "gdp_growth_rate_pct_fy2324": 7.8,
+        "working_age_population_pct": 66.1
+      },
+      "income_distribution": {
+        "description": "Share of households by SEC bracket (NCCS 2023 methodology)",
+        "brackets": {
+          "SEC_A": 0.11,
+          "SEC_B": 0.22,
+          "SEC_C": 0.37,
+          "SEC_D": 0.3
+        },
+        "primary_target_segments": [
+          "SEC_B",
+          "SEC_C"
+        ]
+      },
+      "monthly_indicators": [
+        {
+          "period": "2023-01",
+          "consumer_confidence_idx": 112.2,
+          "retail_inflation_pct": 5.55,
+          "fmcg_category_growth_pct": 6.64,
+          "new_business_registrations": 300
+        },
+        {
+          "period": "2023-02",
+          "consumer_confidence_idx": 112.8,
+          "retail_inflation_pct": 6.15,
+          "fmcg_category_growth_pct": 8.24,
+          "new_business_registrations": 322
+        },
+        {
+          "period": "2023-03",
+          "consumer_confidence_idx": 112.9,
+          "retail_inflation_pct": 6.3,
+          "fmcg_category_growth_pct": 8.9,
+          "new_business_registrations": 295
+        },
+        {
+          "period": "2023-04",
+          "consumer_confidence_idx": 112.7,
+          "retail_inflation_pct": 5.28,
+          "fmcg_category_growth_pct": 7.44,
+          "new_business_registrations": 307
+        },
+        {
+          "period": "2023-05",
+          "consumer_confidence_idx": 113.3,
+          "retail_inflation_pct": 5.91,
+          "fmcg_category_growth_pct": 7.34,
+          "new_business_registrations": 318
+        },
+        {
+          "period": "2023-06",
+          "consumer_confidence_idx": 113.2,
+          "retail_inflation_pct": 5.34,
+          "fmcg_category_growth_pct": 8.53,
+          "new_business_registrations": 284
+        },
+        {
+          "period": "2023-07",
+          "consumer_confidence_idx": 113.7,
+          "retail_inflation_pct": 5.48,
+          "fmcg_category_growth_pct": 7.29,
+          "new_business_registrations": 310
+        },
+        {
+          "period": "2023-08",
+          "consumer_confidence_idx": 113.6,
+          "retail_inflation_pct": 5.71,
+          "fmcg_category_growth_pct": 6.67,
+          "new_business_registrations": 296
+        },
+        {
+          "period": "2023-09",
+          "consumer_confidence_idx": 113.5,
+          "retail_inflation_pct": 6.27,
+          "fmcg_category_growth_pct": 7.88,
+          "new_business_registrations": 315
+        },
+        {
+          "period": "2023-10",
+          "consumer_confidence_idx": 114.2,
+          "retail_inflation_pct": 5.37,
+          "fmcg_category_growth_pct": 8.23,
+          "new_business_registrations": 298
+        },
+        {
+          "period": "2023-11",
+          "consumer_confidence_idx": 114.4,
+          "retail_inflation_pct": 5.47,
+          "fmcg_category_growth_pct": 6.81,
+          "new_business_registrations": 305
+        },
+        {
+          "period": "2023-12",
+          "consumer_confidence_idx": 114.7,
+          "retail_inflation_pct": 5.95,
+          "fmcg_category_growth_pct": 7.4,
+          "new_business_registrations": 289
+        },
+        {
+          "period": "2024-01",
+          "consumer_confidence_idx": 114.5,
+          "retail_inflation_pct": 5.46,
+          "fmcg_category_growth_pct": 7.72,
+          "new_business_registrations": 294
+        },
+        {
+          "period": "2024-02",
+          "consumer_confidence_idx": 114.5,
+          "retail_inflation_pct": 5.35,
+          "fmcg_category_growth_pct": 7.56,
+          "new_business_registrations": 316
+        },
+        {
+          "period": "2024-03",
+          "consumer_confidence_idx": 114.6,
+          "retail_inflation_pct": 5.98,
+          "fmcg_category_growth_pct": 6.6,
+          "new_business_registrations": 296
+        },
+        {
+          "period": "2024-04",
+          "consumer_confidence_idx": 115.4,
+          "retail_inflation_pct": 5.21,
+          "fmcg_category_growth_pct": 7.98,
+          "new_business_registrations": 292
+        },
+        {
+          "period": "2024-05",
+          "consumer_confidence_idx": 115.2,
+          "retail_inflation_pct": 6.03,
+          "fmcg_category_growth_pct": 7.33,
+          "new_business_registrations": 307
+        },
+        {
+          "period": "2024-06",
+          "consumer_confidence_idx": 115.9,
+          "retail_inflation_pct": 5.59,
+          "fmcg_category_growth_pct": 8.0,
+          "new_business_registrations": 295
+        }
+      ]
+    },
+    "Mysuru": {
+      "demographics": {
+        "state": "Karnataka",
+        "classification": "Tier 2",
+        "city_population_2023": 1001910,
+        "district_population": 3107000,
+        "median_annual_hh_income_inr": 378000,
+        "urban_population_pct": 68.1,
+        "literacy_rate_pct": 88.6,
+        "gdp_growth_rate_pct_fy2324": 9.1,
+        "working_age_population_pct": 63.7
+      },
+      "income_distribution": {
+        "description": "Share of households by SEC bracket (NCCS 2023 methodology)",
+        "brackets": {
+          "SEC_A": 0.09,
+          "SEC_B": 0.19,
+          "SEC_C": 0.36,
+          "SEC_D": 0.36
+        },
+        "primary_target_segments": [
+          "SEC_B",
+          "SEC_C"
+        ]
+      },
+      "indicators_monthly": [
+        {
+          "period": "2023-01",
+          "consumer_confidence_index": 105.7,
+          "retail_inflation_pct": 5.8,
+          "fmcg_category_growth_pct": 8.71,
+          "new_business_registrations": 121
+        },
+        {
+          "period": "2023-02",
+          "consumer_confidence_index": 105.9,
+          "retail_inflation_pct": 6.37,
+          "fmcg_category_growth_pct": 9.01,
+          "new_business_registrations": 127
+        },
+        {
+          "period": "2023-03",
+          "consumer_confidence_index": 106.1,
+          "retail_inflation_pct": 6.29,
+          "fmcg_category_growth_pct": 8.55,
+          "new_business_registrations": 106
+        },
+        {
+          "period": "2023-04",
+          "consumer_confidence_index": 106.5,
+          "retail_inflation_pct": 5.74,
+          "fmcg_category_growth_pct": 9.39,
+          "new_business_registrations": 108
+        },
+        {
+          "period": "2023-05",
+          "consumer_confidence_index": 106.2,
+          "retail_inflation_pct": 5.64,
+          "fmcg_category_growth_pct": 8.55,
+          "new_business_registrations": 142
+        },
+        {
+          "period": "2023-06",
+          "consumer_confidence_index": 106.7,
+          "retail_inflation_pct": 5.96,
+          "fmcg_category_growth_pct": 9.61,
+          "new_business_registrations": 115
+        },
+        {
+          "period": "2023-07",
+          "consumer_confidence_index": 107.4,
+          "retail_inflation_pct": 6.16,
+          "fmcg_category_growth_pct": 8.31,
+          "new_business_registrations": 110
+        },
+        {
+          "period": "2023-08",
+          "consumer_confidence_index": 107.4,
+          "retail_inflation_pct": 6.23,
+          "fmcg_category_growth_pct": 8.78,
+          "new_business_registrations": 140
+        },
+        {
+          "period": "2023-09",
+          "consumer_confidence_index": 106.9,
+          "retail_inflation_pct": 5.81,
+          "fmcg_category_growth_pct": 8.51,
+          "new_business_registrations": 136
+        },
+        {
+          "period": "2023-10",
+          "consumer_confidence_index": 107.1,
+          "retail_inflation_pct": 6.33,
+          "fmcg_category_growth_pct": 8.97,
+          "new_business_registrations": 143
+        },
+        {
+          "period": "2023-11",
+          "consumer_confidence_index": 108.2,
+          "retail_inflation_pct": 5.37,
+          "fmcg_category_growth_pct": 8.82,
+          "new_business_registrations": 129
+        },
+        {
+          "period": "2023-12",
+          "consumer_confidence_index": 107.6,
+          "retail_inflation_pct": 5.85,
+          "fmcg_category_growth_pct": 9.78,
+          "new_business_registrations": 111
+        },
+        {
+          "period": "2024-01",
+          "consumer_confidence_index": 108.3,
+          "retail_inflation_pct": 6.18,
+          "fmcg_category_growth_pct": 9.4,
+          "new_business_registrations": 106
+        },
+        {
+          "period": "2024-03",
+          "consumer_confidence_index": 109.0,
+          "retail_inflation_pct": 6.36,
+          "fmcg_category_growth_pct": 9.41,
+          "new_business_registrations": 136
+        },
+        {
+          "period": "2024-04",
+          "consumer_confidence_index": 108.8,
+          "retail_inflation_pct": 5.61,
+          "fmcg_category_growth_pct": 8.84,
+          "new_business_registrations": 120
+        },
+        {
+          "period": "2024-05",
+          "consumer_confidence_index": 109.3,
+          "retail_inflation_pct": 6.26,
+          "fmcg_category_growth_pct": 10.01,
+          "new_business_registrations": 128
+        },
+        {
+          "period": "2024-06",
+          "consumer_confidence_index": 109.4,
+          "retail_inflation_pct": 6.32,
+          "fmcg_category_growth_pct": 10.02,
+          "new_business_registrations": 144
+        }
+      ]
+    }
+  }
+}

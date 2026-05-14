@@ -1,0 +1,271 @@
+Market,Date,SKU_Code,SKU_Name,Category,Units_Sold,MRP_INR,Gross_Revenue_INR,Margin_%,Stockout_Flag,Promo_Period,Promo_Type
+Pune,2023-01-01,PC001,Meridian Shampoo 200ml,Personal Care,14961,180,2692980,28.0,N,N,
+Pune,2023-02-01,PC001,Meridian Shampoo 200ml,Personal Care,14008,180,2521440,28.0,N,N,
+Pune,2023-03-01,PC001,Meridian Shampoo 200ml,Personal Care,14841,180,2671380,28.0,N,N,
+Pune,2023-04-01,PC001,Meridian Shampoo 200ml,Personal Care,16897,180,3041460,28.0,N,N,
+Pune,2023-05-01,PC001,Meridian Shampoo 200ml,Personal Care,17189,180,3094020,28.0,N,N,
+Pune,2023-06-01,PC001,Meridian Shampoo 200ml,Personal Care,14127,180,2542860,28.0,N,Y,Summer
+Pune,2023-07-01,PC001,Meridian Shampoo 200ml,Personal Care,12882,180,2318760,28.0,N,N,
+Pune,2023-08-01,PC001,Meridian Shampoo 200ml,Personal Care,13214,180,2378520,28.0,N,N,
+Pune,2023-09-01,PC001,Meridian Shampoo 200ml,Personal Care,14815,180,2666700,28.0,N,N,
+Pune,2023-10-01,PC001,Meridian Shampoo 200ml,Personal Care,23250,180,4185000,28.0,N,Y,Diwali
+Pune,2023-11-01,PC001,Meridian Shampoo 200ml,Personal Care,21453,180,3861540,28.0,N,Y,Diwali
+Pune,2023-12-01,PC001,Meridian Shampoo 200ml,Personal Care,17482,180,3146760,28.0,N,N,
+Pune,2024-01-01,PC001,Meridian Shampoo 200ml,Personal Care,16381,180,2948580,28.0,N,Y,NewYear-PC
+Pune,2024-02-01,PC001,Meridian Shampoo 200ml,Personal Care,15449,180,2780820,28.0,N,N,
+Pune,2024-03-01,PC001,Meridian Shampoo 200ml,Personal Care,16673,180,3001140,28.0,N,N,
+Pune,2024-04-01,PC001,Meridian Shampoo 200ml,Personal Care,18100,180,3258000,28.0,N,N,
+Pune,2024-05-01,PC001,Meridian Shampoo 200ml,Personal Care,18768,180,3378240,28.0,N,N,
+Pune,2024-06-01,PC001,Meridian Shampoo 200ml,Personal Care,15306,180,2755080,28.0,N,N,
+Pune,2023-01-01,PC002,Meridian Conditioner 150ml,Personal Care,7346,210,1542660,31.0,N,N,
+Pune,2023-02-01,PC002,Meridian Conditioner 150ml,Personal Care,6395,210,1342950,31.0,N,N,
+Pune,2023-03-01,PC002,Meridian Conditioner 150ml,Personal Care,7044,210,1479240,31.0,N,N,
+Pune,2023-04-01,PC002,Meridian Conditioner 150ml,Personal Care,8282,210,1739220,31.0,N,N,
+Pune,2023-05-01,PC002,Meridian Conditioner 150ml,Personal Care,8612,210,1808520,31.0,N,N,
+Pune,2023-06-01,PC002,Meridian Conditioner 150ml,Personal Care,6669,210,1400490,31.0,N,Y,Summer
+Pune,2023-07-01,PC002,Meridian Conditioner 150ml,Personal Care,6556,210,1376760,31.0,N,N,
+Pune,2023-08-01,PC002,Meridian Conditioner 150ml,Personal Care,7029,210,1476090,31.0,N,N,
+Pune,2023-09-01,PC002,Meridian Conditioner 150ml,Personal Care,7164,210,1504440,31.0,N,N,
+Pune,2023-10-01,PC002,Meridian Conditioner 150ml,Personal Care,11672,210,2451120,31.0,N,Y,Diwali
+Pune,2023-11-01,PC002,Meridian Conditioner 150ml,Personal Care,10753,210,2258130,31.0,N,Y,Diwali
+Pune,2023-12-01,PC002,Meridian Conditioner 150ml,Personal Care,8211,210,1724310,31.0,N,N,
+Pune,2024-01-01,PC002,Meridian Conditioner 150ml,Personal Care,7575,210,1590750,31.0,N,Y,NewYear-PC
+Pune,2024-02-01,PC002,Meridian Conditioner 150ml,Personal Care,7303,210,1533630,31.0,N,N,
+Pune,2024-03-01,PC002,Meridian Conditioner 150ml,Personal Care,8031,210,1686510,31.0,N,N,
+Pune,2024-04-01,PC002,Meridian Conditioner 150ml,Personal Care,8613,210,1808730,31.0,N,N,
+Pune,2024-05-01,PC002,Meridian Conditioner 150ml,Personal Care,8671,210,1820910,31.0,N,N,
+Pune,2024-06-01,PC002,Meridian Conditioner 150ml,Personal Care,7350,210,1543500,31.0,N,N,
+Pune,2023-01-01,PC003,Meridian Face Wash 100g,Personal Care,10353,150,1552950,35.0,N,N,
+Pune,2023-02-01,PC003,Meridian Face Wash 100g,Personal Care,9574,150,1436100,35.0,N,N,
+Pune,2023-03-01,PC003,Meridian Face Wash 100g,Personal Care,10360,150,1554000,35.0,N,N,
+Pune,2023-04-01,PC003,Meridian Face Wash 100g,Personal Care,10587,150,1588050,35.0,N,N,
+Pune,2023-05-01,PC003,Meridian Face Wash 100g,Personal Care,12250,150,1837500,35.0,N,N,
+Pune,2023-06-01,PC003,Meridian Face Wash 100g,Personal Care,9160,150,1374000,35.0,N,Y,Summer
+Pune,2023-07-01,PC003,Meridian Face Wash 100g,Personal Care,9131,150,1369650,35.0,N,N,
+Pune,2023-08-01,PC003,Meridian Face Wash 100g,Personal Care,9002,150,1350300,35.0,N,N,
+Pune,2023-09-01,PC003,Meridian Face Wash 100g,Personal Care,10511,150,1576650,35.0,N,N,
+Pune,2023-10-01,PC003,Meridian Face Wash 100g,Personal Care,16725,150,2508750,35.0,N,Y,Diwali
+Pune,2023-11-01,PC003,Meridian Face Wash 100g,Personal Care,14558,150,2183700,35.0,N,Y,Diwali
+Pune,2023-12-01,PC003,Meridian Face Wash 100g,Personal Care,11235,150,1685250,35.0,N,N,
+Pune,2024-01-01,PC003,Meridian Face Wash 100g,Personal Care,11441,150,1716150,35.0,N,Y,NewYear-PC
+Pune,2024-02-01,PC003,Meridian Face Wash 100g,Personal Care,9679,150,1451850,35.0,N,N,
+Pune,2024-03-01,PC003,Meridian Face Wash 100g,Personal Care,11187,150,1678050,35.0,N,N,
+Pune,2024-04-01,PC003,Meridian Face Wash 100g,Personal Care,12651,150,1897650,35.0,N,N,
+Pune,2024-05-01,PC003,Meridian Face Wash 100g,Personal Care,12391,150,1858650,35.0,N,N,
+Pune,2024-06-01,PC003,Meridian Face Wash 100g,Personal Care,10525,150,1578750,35.0,N,N,
+Pune,2023-01-01,PC004,Meridian Body Lotion 250ml,Personal Care,5960,240,1430400,29.0,N,N,
+Pune,2023-02-01,PC004,Meridian Body Lotion 250ml,Personal Care,5181,240,1243440,29.0,N,N,
+Pune,2023-03-01,PC004,Meridian Body Lotion 250ml,Personal Care,5754,240,1380960,29.0,N,N,
+Pune,2023-04-01,PC004,Meridian Body Lotion 250ml,Personal Care,6684,240,1604160,29.0,N,N,
+Pune,2023-05-01,PC004,Meridian Body Lotion 250ml,Personal Care,6873,240,1649520,29.0,N,N,
+Pune,2023-06-01,PC004,Meridian Body Lotion 250ml,Personal Care,5379,240,1290960,29.0,N,Y,Summer
+Pune,2023-07-01,PC004,Meridian Body Lotion 250ml,Personal Care,5610,240,1346400,29.0,N,N,
+Pune,2023-08-01,PC004,Meridian Body Lotion 250ml,Personal Care,5561,240,1334640,29.0,N,N,
+Pune,2023-09-01,PC004,Meridian Body Lotion 250ml,Personal Care,6436,240,1544640,29.0,N,N,
+Pune,2023-10-01,PC004,Meridian Body Lotion 250ml,Personal Care,9774,240,2345760,29.0,N,Y,Diwali
+Pune,2023-11-01,PC004,Meridian Body Lotion 250ml,Personal Care,8502,240,2040480,29.0,N,Y,Diwali
+Pune,2023-12-01,PC004,Meridian Body Lotion 250ml,Personal Care,6474,240,1553760,29.0,N,N,
+Pune,2024-01-01,PC004,Meridian Body Lotion 250ml,Personal Care,6268,240,1504320,29.0,N,Y,NewYear-PC
+Pune,2024-02-01,PC004,Meridian Body Lotion 250ml,Personal Care,6281,240,1507440,29.0,N,N,
+Pune,2024-03-01,PC004,Meridian Body Lotion 250ml,Personal Care,6092,240,1462080,29.0,N,N,
+Pune,2024-04-01,PC004,Meridian Body Lotion 250ml,Personal Care,7371,240,1769040,29.0,N,N,
+Pune,2024-05-01,PC004,Meridian Body Lotion 250ml,Personal Care,7363,240,1767120,29.0,N,N,
+Pune,2024-06-01,PC004,Meridian Body Lotion 250ml,Personal Care,5832,240,1399680,29.0,N,N,
+Pune,2023-01-01,HC001,Meridian Dish Wash 500ml,Home Care,16631,90,1496790,22.0,N,N,
+Pune,2023-02-01,HC001,Meridian Dish Wash 500ml,Home Care,15353,90,1381770,22.0,N,N,
+Pune,2023-03-01,HC001,Meridian Dish Wash 500ml,Home Care,17714,90,1594260,22.0,N,N,
+Pune,2023-04-01,HC001,Meridian Dish Wash 500ml,Home Care,18465,90,1661850,22.0,N,N,
+Pune,2023-05-01,HC001,Meridian Dish Wash 500ml,Home Care,19384,90,1744560,22.0,N,N,
+Pune,2023-06-01,HC001,Meridian Dish Wash 500ml,Home Care,15954,90,1435860,22.0,N,Y,Summer
+Pune,2023-07-01,HC001,Meridian Dish Wash 500ml,Home Care,17583,90,1582470,22.0,N,N,
+Pune,2023-08-01,HC001,Meridian Dish Wash 500ml,Home Care,18382,90,1654380,22.0,N,N,
+Pune,2023-09-01,HC001,Meridian Dish Wash 500ml,Home Care,17068,90,1536120,22.0,N,N,
+Pune,2023-10-01,HC001,Meridian Dish Wash 500ml,Home Care,25299,90,2276910,22.0,N,Y,Diwali
+Pune,2023-11-01,HC001,Meridian Dish Wash 500ml,Home Care,21825,90,1964250,22.0,N,Y,Diwali
+Pune,2023-12-01,HC001,Meridian Dish Wash 500ml,Home Care,19339,90,1740510,22.0,N,N,
+Pune,2024-01-01,HC001,Meridian Dish Wash 500ml,Home Care,18803,90,1692270,22.0,N,Y,NewYear-PC
+Pune,2024-02-01,HC001,Meridian Dish Wash 500ml,Home Care,17059,90,1535310,22.0,N,N,
+Pune,2024-03-01,HC001,Meridian Dish Wash 500ml,Home Care,19275,90,1734750,22.0,N,N,
+Pune,2024-04-01,HC001,Meridian Dish Wash 500ml,Home Care,20251,90,1822590,22.0,N,N,
+Pune,2024-05-01,HC001,Meridian Dish Wash 500ml,Home Care,20145,90,1813050,22.0,N,N,
+Pune,2024-06-01,HC001,Meridian Dish Wash 500ml,Home Care,17844,90,1605960,22.0,N,N,
+Pune,2023-01-01,HC002,Meridian Floor Cleaner 1L,Home Care,12234,120,1468080,24.0,N,N,
+Pune,2023-02-01,HC002,Meridian Floor Cleaner 1L,Home Care,10971,120,1316520,24.0,N,N,
+Pune,2023-03-01,HC002,Meridian Floor Cleaner 1L,Home Care,13011,120,1561320,24.0,N,N,
+Pune,2023-04-01,HC002,Meridian Floor Cleaner 1L,Home Care,14082,120,1689840,24.0,N,N,
+Pune,2023-05-01,HC002,Meridian Floor Cleaner 1L,Home Care,15171,120,1820520,24.0,N,N,
+Pune,2023-06-01,HC002,Meridian Floor Cleaner 1L,Home Care,11894,120,1427280,24.0,N,Y,Summer
+Pune,2023-07-01,HC002,Meridian Floor Cleaner 1L,Home Care,13469,120,1616280,24.0,N,N,
+Pune,2023-08-01,HC002,Meridian Floor Cleaner 1L,Home Care,12917,120,1550040,24.0,N,N,
+Pune,2023-09-01,HC002,Meridian Floor Cleaner 1L,Home Care,12656,120,1518720,24.0,N,N,
+Pune,2023-10-01,HC002,Meridian Floor Cleaner 1L,Home Care,18494,120,2219280,24.0,N,Y,Diwali
+Pune,2023-11-01,HC002,Meridian Floor Cleaner 1L,Home Care,15921,120,1910520,24.0,N,Y,Diwali
+Pune,2023-12-01,HC002,Meridian Floor Cleaner 1L,Home Care,14911,120,1789320,24.0,N,N,
+Pune,2024-01-01,HC002,Meridian Floor Cleaner 1L,Home Care,14129,120,1695480,24.0,N,Y,NewYear-PC
+Pune,2024-02-01,HC002,Meridian Floor Cleaner 1L,Home Care,12064,120,1447680,24.0,N,N,
+Pune,2024-03-01,HC002,Meridian Floor Cleaner 1L,Home Care,13307,120,1596840,24.0,N,N,
+Pune,2024-04-01,HC002,Meridian Floor Cleaner 1L,Home Care,15032,120,1803840,24.0,N,N,
+Pune,2024-05-01,HC002,Meridian Floor Cleaner 1L,Home Care,14994,120,1799280,24.0,N,N,
+Pune,2024-06-01,HC002,Meridian Floor Cleaner 1L,Home Care,13386,120,1606320,24.0,N,N,
+Pune,2023-01-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9796,85,832660,21.0,N,N,
+Pune,2023-02-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,8516,85,723860,21.0,N,N,
+Pune,2023-03-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9492,85,806820,21.0,N,N,
+Pune,2023-04-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,11029,85,937465,21.0,N,N,
+Pune,2023-05-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,10488,85,891480,21.0,N,N,
+Pune,2023-06-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9447,85,802995,21.0,N,Y,Summer
+Pune,2023-07-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9880,85,839800,21.0,N,N,
+Pune,2023-08-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,10614,85,902190,21.0,N,N,
+Pune,2023-09-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,10241,85,870485,21.0,N,N,
+Pune,2023-10-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,13238,85,1125230,21.0,N,Y,Diwali
+Pune,2023-11-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,12105,85,1028925,21.0,N,Y,Diwali
+Pune,2023-12-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,11334,85,963390,21.0,N,N,
+Pune,2024-01-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,10470,85,889950,21.0,N,Y,NewYear-PC
+Pune,2024-02-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9843,85,836655,21.0,N,N,
+Pune,2024-03-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,9718,85,826030,21.0,N,N,
+Pune,2024-04-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,11708,85,995180,21.0,N,N,
+Pune,2024-05-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,12117,85,1029945,21.0,N,N,
+Pune,2024-06-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,10305,85,875925,21.0,N,N,
+Pune,2023-01-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,22803,15,342045,18.0,N,N,
+Pune,2023-02-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,21964,15,329460,18.0,N,N,
+Pune,2023-03-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,23285,15,349275,18.0,N,N,
+Pune,2023-04-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,30032,15,450480,18.0,N,N,
+Pune,2023-05-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,33337,15,500055,18.0,N,N,
+Pune,2023-06-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,24205,15,363075,18.0,N,Y,Summer
+Pune,2023-07-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,19247,15,288705,18.0,N,N,
+Pune,2023-08-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,19787,15,296805,18.0,N,N,
+Pune,2023-09-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,23093,15,346395,18.0,N,N,
+Pune,2023-10-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,33926,15,508890,18.0,N,Y,Diwali
+Pune,2023-11-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,30150,15,452250,18.0,N,Y,Diwali
+Pune,2023-12-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,25311,15,379665,18.0,N,N,
+Pune,2024-01-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,27205,15,408075,18.0,N,Y,NewYear-PC
+Pune,2024-02-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,24714,15,370710,18.0,N,N,
+Pune,2024-03-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,24881,15,373215,18.0,N,N,
+Pune,2024-04-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,31392,15,470880,18.0,N,N,
+Pune,2024-05-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,37274,15,559110,18.0,N,N,
+Pune,2024-06-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,27638,15,414570,18.0,N,N,
+Pune,2023-01-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,7872,280,2204160,32.0,N,N,
+Pune,2023-02-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,7335,280,2053800,32.0,N,N,
+Pune,2023-03-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,7799,280,2183720,32.0,N,N,
+Pune,2023-04-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,10411,280,2915080,32.0,N,N,
+Pune,2023-05-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,11245,280,3148600,32.0,N,N,
+Pune,2023-06-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8772,280,2456160,32.0,N,Y,Summer
+Pune,2023-07-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,6637,280,1858360,32.0,N,N,
+Pune,2023-08-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,6539,280,1830920,32.0,N,N,
+Pune,2023-09-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8467,280,2370760,32.0,N,N,
+Pune,2023-10-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,11756,280,3291680,32.0,N,Y,Diwali
+Pune,2023-11-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,10178,280,2849840,32.0,N,Y,Diwali
+Pune,2023-12-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,9000,280,2520000,32.0,N,N,
+Pune,2024-01-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8812,280,2467360,32.0,N,Y,NewYear-PC
+Pune,2024-02-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8013,280,2243640,32.0,N,N,
+Pune,2024-03-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8706,280,2437680,32.0,N,N,
+Pune,2024-04-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,11124,280,3114720,32.0,N,N,
+Pune,2024-05-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,12954,280,3627120,32.0,N,N,
+Pune,2024-06-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,8857,280,2479960,32.0,N,N,
+Pune,2023-01-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,12954,110,1424940,27.0,N,N,
+Pune,2023-02-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,12754,110,1402940,27.0,N,N,
+Pune,2023-03-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,12967,110,1426370,27.0,N,N,
+Pune,2023-04-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,17103,110,1881330,27.0,N,N,
+Pune,2023-05-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,0,110,0,27.0,Y,N,
+Pune,2023-06-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,14364,110,1580040,27.0,N,Y,Summer
+Pune,2023-07-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,10188,110,1120680,27.0,N,N,
+Pune,2023-08-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,12002,110,1320220,27.0,N,N,
+Pune,2023-09-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,13611,110,1497210,27.0,N,N,
+Pune,2023-10-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,19714,110,2168540,27.0,N,Y,Diwali
+Pune,2023-11-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,18031,110,1983410,27.0,N,Y,Diwali
+Pune,2023-12-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,16278,110,1790580,27.0,N,N,
+Pune,2024-01-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,14034,110,1543740,27.0,N,Y,NewYear-PC
+Pune,2024-02-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,14146,110,1556060,27.0,N,N,
+Pune,2024-03-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,14392,110,1583120,27.0,N,N,
+Pune,2024-04-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,19360,110,2129600,27.0,N,N,
+Pune,2024-05-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,21248,110,2337280,27.0,N,N,
+Pune,2024-06-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,16588,110,1824680,27.0,N,N,
+Pune,2023-01-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10866,75,814950,38.0,N,N,
+Pune,2023-02-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10378,75,778350,38.0,N,N,
+Pune,2023-03-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10732,75,804900,38.0,N,N,
+Pune,2023-04-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,14463,75,1084725,38.0,N,N,
+Pune,2023-05-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,16093,75,1206975,38.0,N,N,
+Pune,2023-06-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,11482,75,861150,38.0,N,Y,Summer
+Pune,2023-07-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,11716,75,878700,38.0,N,N,
+Pune,2023-08-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10624,75,796800,38.0,N,N,
+Pune,2023-09-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10658,75,799350,38.0,N,N,
+Pune,2023-10-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,14589,75,1094175,38.0,N,Y,Diwali
+Pune,2023-11-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,13802,75,1035150,38.0,N,Y,Diwali
+Pune,2023-12-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,12659,75,949425,38.0,N,N,
+Pune,2024-01-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,11351,75,851325,38.0,N,Y,NewYear-PC
+Pune,2024-02-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,10252,75,768900,38.0,N,N,
+Pune,2024-03-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,12152,75,911400,38.0,N,N,
+Pune,2024-04-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,15666,75,1174950,38.0,N,N,
+Pune,2024-05-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,17016,75,1276200,38.0,N,N,
+Pune,2024-06-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,13451,75,1008825,38.0,N,N,
+Pune,2023-01-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6537,130,849810,33.0,N,N,
+Pune,2023-02-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,5537,130,719810,33.0,N,N,
+Pune,2023-03-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6083,130,790790,33.0,N,N,
+Pune,2023-04-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,8259,130,1073670,33.0,N,N,
+Pune,2023-05-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,8520,130,1107600,33.0,N,N,
+Pune,2023-06-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,7011,130,911430,33.0,N,Y,Summer
+Pune,2023-07-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6004,130,780520,33.0,N,N,
+Pune,2023-08-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6284,130,816920,33.0,N,N,
+Pune,2023-09-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6564,130,853320,33.0,N,N,
+Pune,2023-10-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,9027,130,1173510,33.0,N,Y,Diwali
+Pune,2023-11-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,8175,130,1062750,33.0,N,Y,Diwali
+Pune,2023-12-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,7344,130,954720,33.0,N,N,
+Pune,2024-01-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6483,130,842790,33.0,N,Y,NewYear-PC
+Pune,2024-02-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,5974,130,776620,33.0,N,N,
+Pune,2024-03-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,6942,130,902460,33.0,N,N,
+Pune,2024-04-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,8873,130,1153490,33.0,N,N,
+Pune,2024-05-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,9008,130,1171040,33.0,N,N,
+Pune,2024-06-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,7707,130,1001910,33.0,N,N,
+Pune,2023-01-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4558,60,273480,25.0,N,N,
+Pune,2023-02-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4272,60,256320,25.0,N,N,
+Pune,2023-03-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4344,60,260640,25.0,N,N,
+Pune,2023-04-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,6076,60,364560,25.0,N,N,
+Pune,2023-05-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,6577,60,394620,25.0,N,N,
+Pune,2023-06-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4877,60,292620,25.0,N,Y,Summer
+Pune,2023-07-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4896,60,293760,25.0,N,N,
+Pune,2023-08-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4684,60,281040,25.0,N,N,
+Pune,2023-09-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4689,60,281340,25.0,N,N,
+Pune,2023-10-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,6274,60,376440,25.0,N,Y,Diwali
+Pune,2023-11-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,5801,60,348060,25.0,N,Y,Diwali
+Pune,2023-12-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4983,60,298980,25.0,N,N,
+Pune,2024-01-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,5128,60,307680,25.0,N,Y,NewYear-PC
+Pune,2024-02-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4813,60,288780,25.0,N,N,
+Pune,2024-03-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,4927,60,295620,25.0,N,N,
+Pune,2024-04-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,6183,60,370980,25.0,N,N,
+Pune,2024-05-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,6571,60,394260,25.0,N,N,
+Pune,2024-06-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,5268,60,316080,25.0,N,N,
+Pune,2023-01-01,PF001,Meridian Biscuits 200g,Packaged Foods,19291,40,771640,20.0,N,N,
+Pune,2023-02-01,PF001,Meridian Biscuits 200g,Packaged Foods,18297,40,731880,20.0,N,N,
+Pune,2023-03-01,PF001,Meridian Biscuits 200g,Packaged Foods,18094,40,723760,20.0,N,N,
+Pune,2023-04-01,PF001,Meridian Biscuits 200g,Packaged Foods,21359,40,854360,20.0,N,N,
+Pune,2023-05-01,PF001,Meridian Biscuits 200g,Packaged Foods,22859,40,914360,20.0,N,N,
+Pune,2023-06-01,PF001,Meridian Biscuits 200g,Packaged Foods,18102,40,724080,20.0,N,Y,Summer
+Pune,2023-07-01,PF001,Meridian Biscuits 200g,Packaged Foods,18025,40,721000,20.0,N,N,
+Pune,2023-08-01,PF001,Meridian Biscuits 200g,Packaged Foods,17972,40,718880,20.0,N,N,
+Pune,2023-09-01,PF001,Meridian Biscuits 200g,Packaged Foods,20250,40,810000,20.0,N,N,
+Pune,2023-10-01,PF001,Meridian Biscuits 200g,Packaged Foods,27211,40,1088440,20.0,N,Y,Diwali
+Pune,2023-11-01,PF001,Meridian Biscuits 200g,Packaged Foods,24619,40,984760,20.0,N,Y,Diwali
+Pune,2023-12-01,PF001,Meridian Biscuits 200g,Packaged Foods,21202,40,848080,20.0,N,N,
+Pune,2024-01-01,PF001,Meridian Biscuits 200g,Packaged Foods,20541,40,821640,20.0,N,Y,NewYear-PC
+Pune,2024-02-01,PF001,Meridian Biscuits 200g,Packaged Foods,18673,40,746920,20.0,N,N,
+Pune,2024-03-01,PF001,Meridian Biscuits 200g,Packaged Foods,20448,40,817920,20.0,N,N,
+Pune,2024-04-01,PF001,Meridian Biscuits 200g,Packaged Foods,21441,40,857640,20.0,N,N,
+Pune,2024-05-01,PF001,Meridian Biscuits 200g,Packaged Foods,24819,40,992760,20.0,N,N,
+Pune,2024-06-01,PF001,Meridian Biscuits 200g,Packaged Foods,20172,40,806880,20.0,N,N,
+Pune,2023-01-01,PF002,Meridian Namkeen 150g,Packaged Foods,14609,30,438270,19.0,N,N,
+Pune,2023-02-01,PF002,Meridian Namkeen 150g,Packaged Foods,12910,30,387300,19.0,N,N,
+Pune,2023-03-01,PF002,Meridian Namkeen 150g,Packaged Foods,14914,30,447420,19.0,N,N,
+Pune,2023-04-01,PF002,Meridian Namkeen 150g,Packaged Foods,16400,30,492000,19.0,N,N,
+Pune,2023-05-01,PF002,Meridian Namkeen 150g,Packaged Foods,17052,30,511560,19.0,N,N,
+Pune,2023-06-01,PF002,Meridian Namkeen 150g,Packaged Foods,13430,30,402900,19.0,N,Y,Summer
+Pune,2023-07-01,PF002,Meridian Namkeen 150g,Packaged Foods,13012,30,390360,19.0,N,N,
+Pune,2023-08-01,PF002,Meridian Namkeen 150g,Packaged Foods,12899,30,386970,19.0,N,N,
+Pune,2023-09-01,PF002,Meridian Namkeen 150g,Packaged Foods,14549,30,436470,19.0,N,N,
+Pune,2023-10-01,PF002,Meridian Namkeen 150g,Packaged Foods,21277,30,638310,19.0,N,Y,Diwali
+Pune,2023-11-01,PF002,Meridian Namkeen 150g,Packaged Foods,19243,30,577290,19.0,N,Y,Diwali
+Pune,2023-12-01,PF002,Meridian Namkeen 150g,Packaged Foods,16800,30,504000,19.0,N,N,
+Pune,2024-01-01,PF002,Meridian Namkeen 150g,Packaged Foods,16718,30,501540,19.0,N,Y,NewYear-PC
+Pune,2024-02-01,PF002,Meridian Namkeen 150g,Packaged Foods,14677,30,440310,19.0,N,N,
+Pune,2024-03-01,PF002,Meridian Namkeen 150g,Packaged Foods,15334,30,460020,19.0,N,N,
+Pune,2024-04-01,PF002,Meridian Namkeen 150g,Packaged Foods,16716,30,501480,19.0,N,N,
+Pune,2024-05-01,PF002,Meridian Namkeen 150g,Packaged Foods,18879,30,566370,19.0,N,N,
+Pune,2024-06-01,PF002,Meridian Namkeen 150g,Packaged Foods,14161,30,424830,19.0,N,N,

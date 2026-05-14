@@ -1,0 +1,86 @@
+city,Quarter,Competitor,Est_Market_Share,Distribution_Reach_%,Price_Positioning,Promotional_Activity,Price_Index_vs_Category,Years_in_Market,Source_Year,Data_Quality_Flag
+Nashik,Q1-2023,Hindustan Unilever Ltd,33.7%,81.1,Mass-Premium,Medium,1.11,15.0,2023,OK
+Nashik,Q1-2023,Dabur India,14.8%,68.4,Mass,Medium,0.93,12.0,2023,OK
+Nashik,Q1-2023,ITC Limited,12.3%,69.7,Mass-Premium,Medium,0.93,10.0,2023,OK
+Nashik,Q1-2023,Marico,8.1%,55.4,Premium,High,0.95,8.0,2023,OK
+Nashik,Q1-2023,Local/Regional Brands,38.7%,,Value,Medium,1.13,,2023,OK
+Nashik,Q2-2023,Hindustan Unilever Ltd,33.9%,83.1,Mass-Premium,Medium,1.08,15.0,2023,OK
+Nashik,Q2-2023,Dabur India,15.2%,68.0,Mass,Medium,0.93,12.0,2023,OK
+Nashik,Q2-2023,ITC Limited,12.7%,71.1,Mass-Premium,High,0.92,10.0,2023,OK
+Nashik,Q2-2023,Marico,8.3%,56.3,Premium,Medium,0.94,8.0,2023,OK
+Nashik,Q2-2023,Local/Regional Brands,39.1%,,Value,Low,1.07,,2023,OK
+Nashik,Q3-2023,Hindustan Unilever Ltd,32.8%,81.9,Mass-Premium,High,0.99,15.0,2023,OK
+Nashik,Q3-2023,Dabur India,15.5%,68.1,Mass,Medium,0.96,12.0,2023,OK
+Nashik,Q3-2023,ITC Limited,12.0%,70.7,Mass-Premium,Low,0.95,10.0,2023,OK
+Nashik,Q3-2023,Marico,8.5%,56.7,Premium,Low,1.0,8.0,2023,OK
+Nashik,Q3-2023,Local/Regional Brands,39.2%,,Value,High,1.08,,2023,OK
+Nashik,Q4-2023,Hindustan Unilever Ltd,33.1%,84.5,Mass-Premium,High,0.96,15.0,2023,OK
+Nashik,Q4-2023,Dabur India,15.4%,70.5,Mass,Low,1.13,12.0,2023,OK
+Nashik,Q4-2023,ITC Limited,12.5%,72.2,Mass-Premium,Medium,0.95,10.0,2023,OK
+Nashik,Q4-2023,Marico,9.0%,56.1,Premium,High,1.18,8.0,2023,OK
+Nashik,Q4-2023,Local/Regional Brands,39.4%,,Value,High,1.1,,2023,OK
+Nashik,Q1-2024,Hindustan Unilever Ltd,32.7%,84.1,Mass-Premium,High,0.89,15.0,2023,OK
+Nashik,Q1-2024,Dabur India,15.7%,69.6,Mass,Medium,1.18,12.0,2023,OK
+Nashik,Q1-2024,ITC Limited,13.2%,74.0,Mass-Premium,Low,0.99,10.0,2023,OK
+Nashik,Q1-2024,Marico,9.1%,56.7,Premium,High,1.01,8.0,2023,OK
+Nashik,Q2-2024,Hindustan Unilever Ltd,32.4%,84.0,Mass-Premium,Low,0.95,15.0,2023,OK
+Nashik,Q2-2024,Dabur India,16.2%,71.4,Mass,High,0.96,12.0,2023,OK
+Nashik,Q2-2024,ITC Limited,12.6%,72.3,Mass-Premium,Low,1.02,10.0,2023,OK
+Nashik,Q2-2024,Marico,8.6%,56.5,Premium,Medium,0.91,8.0,2023,OK
+Nashik,Q2-2024,Local/Regional Brands,40.9%,,Value,Medium,1.06,,2023,OK
+Nagpur,Q1-2023,HUL,36.5%,87.0,Mass-Premium,High,1.06,20.0,2023,OK
+Nagpur,Q1-2023,Procter & Gamble,9.9%,59.8,Premium,Medium,1.0,9.0,2023,OK
+Nagpur,Q1-2023,Dabur,13.8%,71.0,Mass,Low,1.08,14.0,2023,OK
+Nagpur,Q1-2023,ITC Ltd.,11.5%,67.5,Mass,Medium,0.98,11.0,2023,OK
+Nagpur,Q1-2023,Local Brands,26.8%,,Value,Medium,1.07,,2023,OK
+Nagpur,Q2-2023,HUL,37.1%,87.6,Mass-Premium,Medium,1.05,20.0,2023,OK
+Nagpur,Q2-2023,Procter & Gamble,9.8%,60.4,Premium,Medium,1.11,9.0,2023,OK
+Nagpur,Q2-2023,Dabur,14.2%,71.7,Mass,Medium,0.91,14.0,2023,OK
+Nagpur,Q2-2023,ITC Ltd.,11.7%,68.2,Mass,Medium,0.93,11.0,2023,OK
+Nagpur,Q2-2023,Local Brands,27.2%,,Value,Low,1.1,,2023,OK
+Nagpur,Q3-2023,HUL,35.8%,89.1,Mass-Premium,High,0.91,20.0,2023,OK
+Nagpur,Q3-2023,Procter & Gamble,10.8%,62.0,Premium,Medium,0.93,9.0,2023,OK
+Nagpur,Q3-2023,Dabur,14.7%,73.0,Mass,Medium,1.14,14.0,2023,OK
+Nagpur,Q3-2023,ITC Ltd.,11.8%,68.9,Mass,Medium,0.97,11.0,2023,OK
+Nagpur,Q3-2023,Local Brands,27.9%,,Value,Medium,1.09,,2023,OK
+Nagpur,Q4-2023,HUL,35.8%,88.8,Mass-Premium,Medium,1.13,20.0,2023,OK
+Nagpur,Q4-2023,Procter & Gamble,10.9%,63.2,Premium,High,1.1,9.0,2023,OK
+Nagpur,Q4-2023,Dabur,14.8%,74.0,Mass,Low,1.13,14.0,2023,OK
+Nagpur,Q4-2023,ITC Ltd.,11.2%,70.2,Mass,Medium,1.07,11.0,2023,OK
+Nagpur,Q4-2023,Local Brands,27.6%,,Value,High,1.08,,2023,OK
+Nagpur,Q1-2024,HUL,35.1%,88.1,Mass-Premium,High,0.93,20.0,2023,OK
+Nagpur,Q1-2024,Procter & Gamble,10.7%,61.6,Premium,Medium,1.14,9.0,2023,OK
+Nagpur,Q1-2024,Dabur,15.0%,73.6,Mass,High,0.95,14.0,2023,OK
+Nagpur,Q1-2024,ITC Ltd.,11.8%,69.3,Mass,Medium,1.06,11.0,2023,OK
+Nagpur,Q2-2024,HUL,35.1%,89.5,Mass-Premium,High,1.09,20.0,2023,OK
+Nagpur,Q2-2024,Procter & Gamble,11.5%,63.7,Premium,High,1.13,9.0,2023,OK
+Nagpur,Q2-2024,Dabur,14.9%,74.1,Mass,High,1.1,14.0,2023,OK
+Nagpur,Q2-2024,ITC Ltd.,11.6%,70.6,Mass,Low,1.11,11.0,2023,OK
+Nagpur,Q2-2024,Local Brands,28.3%,,Value,High,1.07,,2023,OK
+Mysuru,Q1-2023,Hindustan Unilever,31.7%,76.0,Mass-Premium,Medium,1.18,18.0,2022,STALE – 2022 batch
+Mysuru,Q1-2023,Marico Ltd,13.2%,58.7,Premium,Low,0.94,7.0,2022,STALE – 2022 batch
+Mysuru,Q1-2023,Dabur India Ltd,11.5%,64.2,Mass,High,1.09,13.0,2022,STALE – 2022 batch
+Mysuru,Q1-2023,ITC,9.2%,61.3,Mass,Low,1.11,10.0,2022,STALE – 2022 batch
+Mysuru,Q2-2023,Hindustan Unilever,31.3%,77.5,Mass-Premium,Medium,1.02,18.0,2022,STALE – 2022 batch
+Mysuru,Q2-2023,Marico Ltd,13.1%,58.3,Premium,Low,1.09,7.0,2022,STALE – 2022 batch
+Mysuru,Q2-2023,Dabur India Ltd,10.7%,64.8,Mass,Low,1.15,13.0,2022,STALE – 2022 batch
+Mysuru,Q2-2023,ITC,8.8%,59.9,Mass,High,0.92,10.0,2022,STALE – 2022 batch
+Mysuru,Q2-2023,Local & Regional,44.7%,,Value,Medium,0.88,,2022,STALE – 2022 batch
+Mysuru,Q3-2023,Hindustan Unilever,30.7%,76.1,Mass-Premium,High,0.96,18.0,2022,STALE – 2022 batch
+Mysuru,Q3-2023,Marico Ltd,13.7%,58.1,Premium,Low,0.99,7.0,2022,STALE – 2022 batch
+Mysuru,Q3-2023,Dabur India Ltd,11.7%,64.6,Mass,Medium,0.93,13.0,2022,STALE – 2022 batch
+Mysuru,Q3-2023,ITC,9.5%,60.4,Mass,Medium,0.98,10.0,2022,STALE – 2022 batch
+Mysuru,Q3-2023,Local & Regional,44.9%,,Value,High,0.95,,2022,STALE – 2022 batch
+Mysuru,Q4-2023,Hindustan Unilever,30.8%,77.9,Mass-Premium,High,1.14,18.0,2022,STALE – 2022 batch
+Mysuru,Q4-2023,Marico Ltd,13.9%,58.9,Premium,Low,1.07,7.0,2022,STALE – 2022 batch
+Mysuru,Q4-2023,Dabur India Ltd,12.1%,65.2,Mass,High,1.1,13.0,2022,STALE – 2022 batch
+Mysuru,Q4-2023,Local & Regional,44.7%,,Value,Low,1.17,,2022,STALE – 2022 batch
+Mysuru,Q1-2024,Hindustan Unilever,29.9%,76.6,Mass-Premium,Medium,1.01,18.0,2022,STALE – 2022 batch
+Mysuru,Q1-2024,Marico Ltd,14.0%,58.4,Premium,Medium,1.17,7.0,2022,STALE – 2022 batch
+Mysuru,Q1-2024,Dabur India Ltd,11.7%,64.8,Mass,Medium,1.12,13.0,2022,STALE – 2022 batch
+Mysuru,Q1-2024,ITC,9.5%,62.9,Mass,Low,1.01,10.0,2022,STALE – 2022 batch
+Mysuru,Q2-2024,Hindustan Unilever,29.7%,78.5,Mass-Premium,High,1.14,18.0,2022,STALE – 2022 batch
+Mysuru,Q2-2024,Marico Ltd,14.2%,59.9,Premium,Medium,1.12,7.0,2022,STALE – 2022 batch
+Mysuru,Q2-2024,Dabur India Ltd,11.9%,64.8,Mass,Low,1.12,13.0,2022,STALE – 2022 batch
+Mysuru,Q2-2024,ITC,10.4%,62.5,Mass,Medium,1.11,10.0,2022,STALE – 2022 batch
+Mysuru,Q2-2024,Local & Regional,45.0%,,Value,High,1.08,,2022,STALE – 2022 batch

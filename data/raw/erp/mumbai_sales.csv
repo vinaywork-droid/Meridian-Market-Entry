@@ -1,0 +1,271 @@
+Market,Date,SKU_Code,SKU_Name,Category,Units_Sold,MRP_INR,Gross_Revenue_INR,Margin_%,Stockout_Flag,Promo_Period,Promo_Type
+Mumbai,2023-01-01,PC001,Meridian Shampoo 200ml,Personal Care,45331,180,8159580,28.0,N,N,
+Mumbai,2023-02-01,PC001,Meridian Shampoo 200ml,Personal Care,41761,180,7516980,28.0,N,N,
+Mumbai,2023-03-01,PC001,Meridian Shampoo 200ml,Personal Care,48020,180,8643600,28.0,N,N,
+Mumbai,2023-04-01,PC001,Meridian Shampoo 200ml,Personal Care,50820,180,9147600,28.0,N,N,
+Mumbai,2023-05-01,PC001,Meridian Shampoo 200ml,Personal Care,54684,180,9843120,28.0,N,N,
+Mumbai,2023-06-01,PC001,Meridian Shampoo 200ml,Personal Care,44442,180,7999560,28.0,N,Y,Summer
+Mumbai,2023-07-01,PC001,Meridian Shampoo 200ml,Personal Care,42345,180,7622100,28.0,N,N,
+Mumbai,2023-08-01,PC001,Meridian Shampoo 200ml,Personal Care,41182,180,7412760,28.0,N,N,
+Mumbai,2023-09-01,PC001,Meridian Shampoo 200ml,Personal Care,47397,180,8531460,28.0,N,N,
+Mumbai,2023-10-01,PC001,Meridian Shampoo 200ml,Personal Care,73660,180,13258800,28.0,N,Y,Diwali
+Mumbai,2023-11-01,PC001,Meridian Shampoo 200ml,Personal Care,65086,180,11715480,28.0,N,Y,Diwali
+Mumbai,2023-12-01,PC001,Meridian Shampoo 200ml,Personal Care,54999,180,9899820,28.0,N,N,
+Mumbai,2024-01-01,PC001,Meridian Shampoo 200ml,Personal Care,50225,180,9040500,28.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PC001,Meridian Shampoo 200ml,Personal Care,46177,180,8311860,28.0,N,N,
+Mumbai,2024-03-01,PC001,Meridian Shampoo 200ml,Personal Care,48598,180,8747640,28.0,N,N,
+Mumbai,2024-04-01,PC001,Meridian Shampoo 200ml,Personal Care,51813,180,9326340,28.0,N,N,
+Mumbai,2024-05-01,PC001,Meridian Shampoo 200ml,Personal Care,56906,180,10243080,28.0,N,N,
+Mumbai,2024-06-01,PC001,Meridian Shampoo 200ml,Personal Care,45906,180,8263080,28.0,N,N,
+Mumbai,2023-01-01,PC002,Meridian Conditioner 150ml,Personal Care,22231,210,4668510,31.0,N,N,
+Mumbai,2023-02-01,PC002,Meridian Conditioner 150ml,Personal Care,20009,210,4201890,31.0,N,N,
+Mumbai,2023-03-01,PC002,Meridian Conditioner 150ml,Personal Care,21899,210,4598790,31.0,N,N,
+Mumbai,2023-04-01,PC002,Meridian Conditioner 150ml,Personal Care,25429,210,5340090,31.0,N,N,
+Mumbai,2023-05-01,PC002,Meridian Conditioner 150ml,Personal Care,25257,210,5303970,31.0,N,N,
+Mumbai,2023-06-01,PC002,Meridian Conditioner 150ml,Personal Care,21091,210,4429110,31.0,N,Y,Summer
+Mumbai,2023-07-01,PC002,Meridian Conditioner 150ml,Personal Care,20924,210,4394040,31.0,N,N,
+Mumbai,2023-08-01,PC002,Meridian Conditioner 150ml,Personal Care,20391,210,4282110,31.0,N,N,
+Mumbai,2023-09-01,PC002,Meridian Conditioner 150ml,Personal Care,24739,210,5195190,31.0,N,N,
+Mumbai,2023-10-01,PC002,Meridian Conditioner 150ml,Personal Care,37066,210,7783860,31.0,N,Y,Diwali
+Mumbai,2023-11-01,PC002,Meridian Conditioner 150ml,Personal Care,32039,210,6728190,31.0,N,Y,Diwali
+Mumbai,2023-12-01,PC002,Meridian Conditioner 150ml,Personal Care,26139,210,5489190,31.0,N,N,
+Mumbai,2024-01-01,PC002,Meridian Conditioner 150ml,Personal Care,23938,210,5026980,31.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PC002,Meridian Conditioner 150ml,Personal Care,23016,210,4833360,31.0,N,N,
+Mumbai,2024-03-01,PC002,Meridian Conditioner 150ml,Personal Care,23660,210,4968600,31.0,N,N,
+Mumbai,2024-04-01,PC002,Meridian Conditioner 150ml,Personal Care,27899,210,5858790,31.0,N,N,
+Mumbai,2024-05-01,PC002,Meridian Conditioner 150ml,Personal Care,26905,210,5650050,31.0,N,N,
+Mumbai,2024-06-01,PC002,Meridian Conditioner 150ml,Personal Care,23313,210,4895730,31.0,N,N,
+Mumbai,2023-01-01,PC003,Meridian Face Wash 100g,Personal Care,32933,150,4939950,35.0,N,N,
+Mumbai,2023-02-01,PC003,Meridian Face Wash 100g,Personal Care,27978,150,4196700,35.0,N,N,
+Mumbai,2023-03-01,PC003,Meridian Face Wash 100g,Personal Care,30884,150,4632600,35.0,N,N,
+Mumbai,2023-04-01,PC003,Meridian Face Wash 100g,Personal Care,35729,150,5359350,35.0,N,N,
+Mumbai,2023-05-01,PC003,Meridian Face Wash 100g,Personal Care,37977,150,5696550,35.0,N,N,
+Mumbai,2023-06-01,PC003,Meridian Face Wash 100g,Personal Care,29722,150,4458300,35.0,N,Y,Summer
+Mumbai,2023-07-01,PC003,Meridian Face Wash 100g,Personal Care,30027,150,4504050,35.0,N,N,
+Mumbai,2023-08-01,PC003,Meridian Face Wash 100g,Personal Care,31496,150,4724400,35.0,N,N,
+Mumbai,2023-09-01,PC003,Meridian Face Wash 100g,Personal Care,34700,150,5205000,35.0,N,N,
+Mumbai,2023-10-01,PC003,Meridian Face Wash 100g,Personal Care,49713,150,7456950,35.0,N,Y,Diwali
+Mumbai,2023-11-01,PC003,Meridian Face Wash 100g,Personal Care,46739,150,7010850,35.0,N,Y,Diwali
+Mumbai,2023-12-01,PC003,Meridian Face Wash 100g,Personal Care,35787,150,5368050,35.0,N,N,
+Mumbai,2024-01-01,PC003,Meridian Face Wash 100g,Personal Care,37199,150,5579850,35.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PC003,Meridian Face Wash 100g,Personal Care,31940,150,4791000,35.0,N,N,
+Mumbai,2024-03-01,PC003,Meridian Face Wash 100g,Personal Care,32360,150,4854000,35.0,N,N,
+Mumbai,2024-04-01,PC003,Meridian Face Wash 100g,Personal Care,38538,150,5780700,35.0,N,N,
+Mumbai,2024-05-01,PC003,Meridian Face Wash 100g,Personal Care,38642,150,5796300,35.0,N,N,
+Mumbai,2024-06-01,PC003,Meridian Face Wash 100g,Personal Care,34781,150,5217150,35.0,N,N,
+Mumbai,2023-01-01,PC004,Meridian Body Lotion 250ml,Personal Care,19988,240,4797120,29.0,N,N,
+Mumbai,2023-02-01,PC004,Meridian Body Lotion 250ml,Personal Care,17531,240,4207440,29.0,N,N,
+Mumbai,2023-03-01,PC004,Meridian Body Lotion 250ml,Personal Care,17421,240,4181040,29.0,N,N,
+Mumbai,2023-04-01,PC004,Meridian Body Lotion 250ml,Personal Care,20635,240,4952400,29.0,N,N,
+Mumbai,2023-05-01,PC004,Meridian Body Lotion 250ml,Personal Care,20197,240,4847280,29.0,N,N,
+Mumbai,2023-06-01,PC004,Meridian Body Lotion 250ml,Personal Care,16657,240,3997680,29.0,N,Y,Summer
+Mumbai,2023-07-01,PC004,Meridian Body Lotion 250ml,Personal Care,17484,240,4196160,29.0,N,N,
+Mumbai,2023-08-01,PC004,Meridian Body Lotion 250ml,Personal Care,16713,240,4011120,29.0,N,N,
+Mumbai,2023-09-01,PC004,Meridian Body Lotion 250ml,Personal Care,19040,240,4569600,29.0,N,N,
+Mumbai,2023-10-01,PC004,Meridian Body Lotion 250ml,Personal Care,31973,240,7673520,29.0,N,Y,Diwali
+Mumbai,2023-11-01,PC004,Meridian Body Lotion 250ml,Personal Care,25863,240,6207120,29.0,N,Y,Diwali
+Mumbai,2023-12-01,PC004,Meridian Body Lotion 250ml,Personal Care,20720,240,4972800,29.0,N,N,
+Mumbai,2024-01-01,PC004,Meridian Body Lotion 250ml,Personal Care,21427,240,5142480,29.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PC004,Meridian Body Lotion 250ml,Personal Care,17710,240,4250400,29.0,N,N,
+Mumbai,2024-03-01,PC004,Meridian Body Lotion 250ml,Personal Care,20294,240,4870560,29.0,N,N,
+Mumbai,2024-04-01,PC004,Meridian Body Lotion 250ml,Personal Care,23064,240,5535360,29.0,N,N,
+Mumbai,2024-05-01,PC004,Meridian Body Lotion 250ml,Personal Care,24028,240,5766720,29.0,N,N,
+Mumbai,2024-06-01,PC004,Meridian Body Lotion 250ml,Personal Care,19405,240,4657200,29.0,N,N,
+Mumbai,2023-01-01,HC001,Meridian Dish Wash 500ml,Home Care,53381,90,4804290,22.0,N,N,
+Mumbai,2023-02-01,HC001,Meridian Dish Wash 500ml,Home Care,48250,90,4342500,22.0,N,N,
+Mumbai,2023-03-01,HC001,Meridian Dish Wash 500ml,Home Care,54685,90,4921650,22.0,N,N,
+Mumbai,2023-04-01,HC001,Meridian Dish Wash 500ml,Home Care,60962,90,5486580,22.0,N,N,
+Mumbai,2023-05-01,HC001,Meridian Dish Wash 500ml,Home Care,61532,90,5537880,22.0,N,N,
+Mumbai,2023-06-01,HC001,Meridian Dish Wash 500ml,Home Care,49436,90,4449240,22.0,N,Y,Summer
+Mumbai,2023-07-01,HC001,Meridian Dish Wash 500ml,Home Care,54713,90,4924170,22.0,N,N,
+Mumbai,2023-08-01,HC001,Meridian Dish Wash 500ml,Home Care,54678,90,4921020,22.0,N,N,
+Mumbai,2023-09-01,HC001,Meridian Dish Wash 500ml,Home Care,57284,90,5155560,22.0,N,N,
+Mumbai,2023-10-01,HC001,Meridian Dish Wash 500ml,Home Care,75272,90,6774480,22.0,N,Y,Diwali
+Mumbai,2023-11-01,HC001,Meridian Dish Wash 500ml,Home Care,72651,90,6538590,22.0,N,Y,Diwali
+Mumbai,2023-12-01,HC001,Meridian Dish Wash 500ml,Home Care,63122,90,5680980,22.0,N,N,
+Mumbai,2024-01-01,HC001,Meridian Dish Wash 500ml,Home Care,56760,90,5108400,22.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HC001,Meridian Dish Wash 500ml,Home Care,54404,90,4896360,22.0,N,N,
+Mumbai,2024-03-01,HC001,Meridian Dish Wash 500ml,Home Care,56418,90,5077620,22.0,N,N,
+Mumbai,2024-04-01,HC001,Meridian Dish Wash 500ml,Home Care,63527,90,5717430,22.0,N,N,
+Mumbai,2024-05-01,HC001,Meridian Dish Wash 500ml,Home Care,68118,90,6130620,22.0,N,N,
+Mumbai,2024-06-01,HC001,Meridian Dish Wash 500ml,Home Care,57081,90,5137290,22.0,N,N,
+Mumbai,2023-01-01,HC002,Meridian Floor Cleaner 1L,Home Care,41545,120,4985400,24.0,N,N,
+Mumbai,2023-02-01,HC002,Meridian Floor Cleaner 1L,Home Care,35258,120,4230960,24.0,N,N,
+Mumbai,2023-03-01,HC002,Meridian Floor Cleaner 1L,Home Care,36322,120,4358640,24.0,N,N,
+Mumbai,2023-04-01,HC002,Meridian Floor Cleaner 1L,Home Care,43831,120,5259720,24.0,N,N,
+Mumbai,2023-05-01,HC002,Meridian Floor Cleaner 1L,Home Care,42711,120,5125320,24.0,N,N,
+Mumbai,2023-06-01,HC002,Meridian Floor Cleaner 1L,Home Care,36442,120,4373040,24.0,N,Y,Summer
+Mumbai,2023-07-01,HC002,Meridian Floor Cleaner 1L,Home Care,39434,120,4732080,24.0,N,N,
+Mumbai,2023-08-01,HC002,Meridian Floor Cleaner 1L,Home Care,42956,120,5154720,24.0,N,N,
+Mumbai,2023-09-01,HC002,Meridian Floor Cleaner 1L,Home Care,39160,120,4699200,24.0,N,N,
+Mumbai,2023-10-01,HC002,Meridian Floor Cleaner 1L,Home Care,56573,120,6788760,24.0,N,Y,Diwali
+Mumbai,2023-11-01,HC002,Meridian Floor Cleaner 1L,Home Care,53616,120,6433920,24.0,N,Y,Diwali
+Mumbai,2023-12-01,HC002,Meridian Floor Cleaner 1L,Home Care,42539,120,5104680,24.0,N,N,
+Mumbai,2024-01-01,HC002,Meridian Floor Cleaner 1L,Home Care,40888,120,4906560,24.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HC002,Meridian Floor Cleaner 1L,Home Care,38470,120,4616400,24.0,N,N,
+Mumbai,2024-03-01,HC002,Meridian Floor Cleaner 1L,Home Care,43376,120,5205120,24.0,N,N,
+Mumbai,2024-04-01,HC002,Meridian Floor Cleaner 1L,Home Care,44427,120,5331240,24.0,N,N,
+Mumbai,2024-05-01,HC002,Meridian Floor Cleaner 1L,Home Care,47585,120,5710200,24.0,N,N,
+Mumbai,2024-06-01,HC002,Meridian Floor Cleaner 1L,Home Care,38151,120,4578120,24.0,N,N,
+Mumbai,2023-01-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,31411,85,2669935,21.0,N,N,
+Mumbai,2023-02-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,27421,85,2330785,21.0,N,N,
+Mumbai,2023-03-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,30286,85,2574310,21.0,N,N,
+Mumbai,2023-04-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,34091,85,2897735,21.0,N,N,
+Mumbai,2023-05-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,33114,85,2814690,21.0,N,N,
+Mumbai,2023-06-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,29492,85,2506820,21.0,N,Y,Summer
+Mumbai,2023-07-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,30306,85,2576010,21.0,N,N,
+Mumbai,2023-08-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,33618,85,2857530,21.0,N,N,
+Mumbai,2023-09-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,31692,85,2693820,21.0,N,N,
+Mumbai,2023-10-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,44288,85,3764480,21.0,N,Y,Diwali
+Mumbai,2023-11-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,36320,85,3087200,21.0,N,Y,Diwali
+Mumbai,2023-12-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,32860,85,2793100,21.0,N,N,
+Mumbai,2024-01-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,32437,85,2757145,21.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,29499,85,2507415,21.0,N,N,
+Mumbai,2024-03-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,30669,85,2606865,21.0,N,N,
+Mumbai,2024-04-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,34604,85,2941340,21.0,N,N,
+Mumbai,2024-05-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,35288,85,2999480,21.0,N,N,
+Mumbai,2024-06-01,HC003,Meridian Toilet Cleaner 500ml,Home Care,30384,85,2582640,21.0,N,N,
+Mumbai,2023-01-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,77254,15,1158810,18.0,N,N,
+Mumbai,2023-02-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,67711,15,1015665,18.0,N,N,
+Mumbai,2023-03-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,67752,15,1016280,18.0,N,N,
+Mumbai,2023-04-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,94630,15,1419450,18.0,N,N,
+Mumbai,2023-05-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,98759,15,1481385,18.0,N,N,
+Mumbai,2023-06-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,84562,15,1268430,18.0,N,Y,Summer
+Mumbai,2023-07-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,55814,15,837210,18.0,N,N,
+Mumbai,2023-08-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,63004,15,945060,18.0,N,N,
+Mumbai,2023-09-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,80535,15,1208025,18.0,N,N,
+Mumbai,2023-10-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,107830,15,1617450,18.0,N,Y,Diwali
+Mumbai,2023-11-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,96858,15,1452870,18.0,N,Y,Diwali
+Mumbai,2023-12-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,87190,15,1307850,18.0,N,N,
+Mumbai,2024-01-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,85134,15,1277010,18.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,74349,15,1115235,18.0,N,N,
+Mumbai,2024-03-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,78184,15,1172760,18.0,N,N,
+Mumbai,2024-04-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,104718,15,1570770,18.0,N,N,
+Mumbai,2024-05-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,113473,15,1702095,18.0,N,N,
+Mumbai,2024-06-01,FB001,Meridian Instant Noodles 70g,Food & Beverages,87854,15,1317810,18.0,N,N,
+Mumbai,2023-01-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,25048,280,7013440,32.0,N,N,
+Mumbai,2023-02-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,22170,280,6207600,32.0,N,N,
+Mumbai,2023-03-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,23200,280,6496000,32.0,N,N,
+Mumbai,2023-04-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,30619,280,8573320,32.0,N,N,
+Mumbai,2023-05-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,34386,280,9628080,32.0,N,N,
+Mumbai,2023-06-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,25595,280,7166600,32.0,N,Y,Summer
+Mumbai,2023-07-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,19908,280,5574240,32.0,N,N,
+Mumbai,2023-08-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,20240,280,5667200,32.0,N,N,
+Mumbai,2023-09-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,26765,280,7494200,32.0,N,N,
+Mumbai,2023-10-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,33285,280,9319800,32.0,N,Y,Diwali
+Mumbai,2023-11-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,30926,280,8659280,32.0,N,Y,Diwali
+Mumbai,2023-12-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,29101,280,8148280,32.0,N,N,
+Mumbai,2024-01-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,27527,280,7707560,32.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,23476,280,6573280,32.0,N,N,
+Mumbai,2024-03-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,27430,280,7680400,32.0,N,N,
+Mumbai,2024-04-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,36439,280,10202920,32.0,N,N,
+Mumbai,2024-05-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,37429,280,10480120,32.0,N,N,
+Mumbai,2024-06-01,FB002,Meridian Breakfast Cereal 400g,Food & Beverages,28663,280,8025640,32.0,N,N,
+Mumbai,2023-01-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,45576,110,5013360,27.0,N,N,
+Mumbai,2023-02-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,39792,110,4377120,27.0,N,N,
+Mumbai,2023-03-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,41682,110,4585020,27.0,N,N,
+Mumbai,2023-04-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,57404,110,6314440,27.0,N,N,
+Mumbai,2023-05-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,58903,110,6479330,27.0,N,N,
+Mumbai,2023-06-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,45851,110,5043610,27.0,N,Y,Summer
+Mumbai,2023-07-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,32798,110,3607780,27.0,N,N,
+Mumbai,2023-08-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,36730,110,4040300,27.0,N,N,
+Mumbai,2023-09-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,44397,110,4883670,27.0,N,N,
+Mumbai,2023-10-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,61065,110,6717150,27.0,N,Y,Diwali
+Mumbai,2023-11-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,53002,110,5830220,27.0,N,Y,Diwali
+Mumbai,2023-12-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,46754,110,5142940,27.0,N,N,
+Mumbai,2024-01-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,46410,110,5105100,27.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,43524,110,4787640,27.0,N,N,
+Mumbai,2024-03-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,44966,110,4946260,27.0,N,N,
+Mumbai,2024-04-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,56214,110,6183540,27.0,N,N,
+Mumbai,2024-05-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,68157,110,7497270,27.0,N,N,
+Mumbai,2024-06-01,FB003,Meridian Fruit Juice 1L,Food & Beverages,47315,110,5204650,27.0,N,N,
+Mumbai,2023-01-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,36545,75,2740875,38.0,N,N,
+Mumbai,2023-02-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,29752,75,2231400,38.0,N,N,
+Mumbai,2023-03-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,34203,75,2565225,38.0,N,N,
+Mumbai,2023-04-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,0,75,0,38.0,Y,N,
+Mumbai,2023-05-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,49836,75,3737700,38.0,N,N,
+Mumbai,2023-06-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,37062,75,2779650,38.0,N,Y,Summer
+Mumbai,2023-07-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,33058,75,2479350,38.0,N,N,
+Mumbai,2023-08-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,34254,75,2569050,38.0,N,N,
+Mumbai,2023-09-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,33997,75,2549775,38.0,N,N,
+Mumbai,2023-10-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,46324,75,3474300,38.0,N,Y,Diwali
+Mumbai,2023-11-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,46331,75,3474825,38.0,N,Y,Diwali
+Mumbai,2023-12-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,38683,75,2901225,38.0,N,N,
+Mumbai,2024-01-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,38703,75,2902725,38.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,34631,75,2597325,38.0,N,N,
+Mumbai,2024-03-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,36846,75,2763450,38.0,N,N,
+Mumbai,2024-04-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,45052,75,3378900,38.0,N,N,
+Mumbai,2024-05-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,49638,75,3722850,38.0,N,N,
+Mumbai,2024-06-01,HH001,Meridian Hand Sanitizer 100ml,Health & Hygiene,41565,75,3117375,38.0,N,N,
+Mumbai,2023-01-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,21077,130,2740010,33.0,N,N,
+Mumbai,2023-02-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,17648,130,2294240,33.0,N,N,
+Mumbai,2023-03-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,18716,130,2433080,33.0,N,N,
+Mumbai,2023-04-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,25056,130,3257280,33.0,N,N,
+Mumbai,2023-05-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,28933,130,3761290,33.0,N,N,
+Mumbai,2023-06-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,20836,130,2708680,33.0,N,Y,Summer
+Mumbai,2023-07-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,19677,130,2558010,33.0,N,N,
+Mumbai,2023-08-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,21050,130,2736500,33.0,N,N,
+Mumbai,2023-09-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,19178,130,2493140,33.0,N,N,
+Mumbai,2023-10-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,26235,130,3410550,33.0,N,Y,Diwali
+Mumbai,2023-11-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,25630,130,3331900,33.0,N,Y,Diwali
+Mumbai,2023-12-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,23515,130,3056950,33.0,N,N,
+Mumbai,2024-01-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,20862,130,2712060,33.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,19539,130,2540070,33.0,N,N,
+Mumbai,2024-03-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,20651,130,2684630,33.0,N,N,
+Mumbai,2024-04-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,27050,130,3516500,33.0,N,N,
+Mumbai,2024-05-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,29955,130,3894150,33.0,N,N,
+Mumbai,2024-06-01,HH002,Meridian Antiseptic 250ml,Health & Hygiene,23051,130,2996630,33.0,N,N,
+Mumbai,2023-01-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,14607,60,876420,25.0,N,N,
+Mumbai,2023-02-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,13343,60,800580,25.0,N,N,
+Mumbai,2023-03-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,14334,60,860040,25.0,N,N,
+Mumbai,2023-04-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,18605,60,1116300,25.0,N,N,
+Mumbai,2023-05-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,21005,60,1260300,25.0,N,N,
+Mumbai,2023-06-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,14937,60,896220,25.0,N,Y,Summer
+Mumbai,2023-07-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,15249,60,914940,25.0,N,N,
+Mumbai,2023-08-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,15426,60,925560,25.0,N,N,
+Mumbai,2023-09-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,14639,60,878340,25.0,N,N,
+Mumbai,2023-10-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,20370,60,1222200,25.0,N,Y,Diwali
+Mumbai,2023-11-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,18515,60,1110900,25.0,N,Y,Diwali
+Mumbai,2023-12-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,15961,60,957660,25.0,N,N,
+Mumbai,2024-01-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,15673,60,940380,25.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,13660,60,819600,25.0,N,N,
+Mumbai,2024-03-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,14899,60,893940,25.0,N,N,
+Mumbai,2024-04-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,20756,60,1245360,25.0,N,N,
+Mumbai,2024-05-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,21190,60,1271400,25.0,N,N,
+Mumbai,2024-06-01,HH003,Meridian ORS Sachets 10pk,Health & Hygiene,17698,60,1061880,25.0,N,N,
+Mumbai,2023-01-01,PF001,Meridian Biscuits 200g,Packaged Foods,61130,40,2445200,20.0,N,N,
+Mumbai,2023-02-01,PF001,Meridian Biscuits 200g,Packaged Foods,57980,40,2319200,20.0,N,N,
+Mumbai,2023-03-01,PF001,Meridian Biscuits 200g,Packaged Foods,59271,40,2370840,20.0,N,N,
+Mumbai,2023-04-01,PF001,Meridian Biscuits 200g,Packaged Foods,61362,40,2454480,20.0,N,N,
+Mumbai,2023-05-01,PF001,Meridian Biscuits 200g,Packaged Foods,69864,40,2794560,20.0,N,N,
+Mumbai,2023-06-01,PF001,Meridian Biscuits 200g,Packaged Foods,53778,40,2151120,20.0,N,Y,Summer
+Mumbai,2023-07-01,PF001,Meridian Biscuits 200g,Packaged Foods,53915,40,2156600,20.0,N,N,
+Mumbai,2023-08-01,PF001,Meridian Biscuits 200g,Packaged Foods,58672,40,2346880,20.0,N,N,
+Mumbai,2023-09-01,PF001,Meridian Biscuits 200g,Packaged Foods,59756,40,2390240,20.0,N,N,
+Mumbai,2023-10-01,PF001,Meridian Biscuits 200g,Packaged Foods,83649,40,3345960,20.0,N,Y,Diwali
+Mumbai,2023-11-01,PF001,Meridian Biscuits 200g,Packaged Foods,79407,40,3176280,20.0,N,Y,Diwali
+Mumbai,2023-12-01,PF001,Meridian Biscuits 200g,Packaged Foods,71577,40,2863080,20.0,N,N,
+Mumbai,2024-01-01,PF001,Meridian Biscuits 200g,Packaged Foods,67093,40,2683720,20.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PF001,Meridian Biscuits 200g,Packaged Foods,58127,40,2325080,20.0,N,N,
+Mumbai,2024-03-01,PF001,Meridian Biscuits 200g,Packaged Foods,64747,40,2589880,20.0,N,N,
+Mumbai,2024-04-01,PF001,Meridian Biscuits 200g,Packaged Foods,68494,40,2739760,20.0,N,N,
+Mumbai,2024-05-01,PF001,Meridian Biscuits 200g,Packaged Foods,75804,40,3032160,20.0,N,N,
+Mumbai,2024-06-01,PF001,Meridian Biscuits 200g,Packaged Foods,64757,40,2590280,20.0,N,N,
+Mumbai,2023-01-01,PF002,Meridian Namkeen 150g,Packaged Foods,47427,30,1422810,19.0,N,N,
+Mumbai,2023-02-01,PF002,Meridian Namkeen 150g,Packaged Foods,43899,30,1316970,19.0,N,N,
+Mumbai,2023-03-01,PF002,Meridian Namkeen 150g,Packaged Foods,41902,30,1257060,19.0,N,N,
+Mumbai,2023-04-01,PF002,Meridian Namkeen 150g,Packaged Foods,50623,30,1518690,19.0,N,N,
+Mumbai,2023-05-01,PF002,Meridian Namkeen 150g,Packaged Foods,53960,30,1618800,19.0,N,N,
+Mumbai,2023-06-01,PF002,Meridian Namkeen 150g,Packaged Foods,40775,30,1223250,19.0,N,Y,Summer
+Mumbai,2023-07-01,PF002,Meridian Namkeen 150g,Packaged Foods,42979,30,1289370,19.0,N,N,
+Mumbai,2023-08-01,PF002,Meridian Namkeen 150g,Packaged Foods,41092,30,1232760,19.0,N,N,
+Mumbai,2023-09-01,PF002,Meridian Namkeen 150g,Packaged Foods,48166,30,1444980,19.0,N,N,
+Mumbai,2023-10-01,PF002,Meridian Namkeen 150g,Packaged Foods,66626,30,1998780,19.0,N,Y,Diwali
+Mumbai,2023-11-01,PF002,Meridian Namkeen 150g,Packaged Foods,59767,30,1793010,19.0,N,Y,Diwali
+Mumbai,2023-12-01,PF002,Meridian Namkeen 150g,Packaged Foods,49378,30,1481340,19.0,N,N,
+Mumbai,2024-01-01,PF002,Meridian Namkeen 150g,Packaged Foods,50452,30,1513560,19.0,N,Y,NewYear-PC
+Mumbai,2024-02-01,PF002,Meridian Namkeen 150g,Packaged Foods,45684,30,1370520,19.0,N,N,
+Mumbai,2024-03-01,PF002,Meridian Namkeen 150g,Packaged Foods,50421,30,1512630,19.0,N,N,
+Mumbai,2024-04-01,PF002,Meridian Namkeen 150g,Packaged Foods,52648,30,1579440,19.0,N,N,
+Mumbai,2024-05-01,PF002,Meridian Namkeen 150g,Packaged Foods,54834,30,1645020,19.0,N,N,
+Mumbai,2024-06-01,PF002,Meridian Namkeen 150g,Packaged Foods,47985,30,1439550,19.0,N,N,
