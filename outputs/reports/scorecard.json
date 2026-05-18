@@ -1,0 +1,29 @@
+[
+  {
+    "city": "Nagpur",
+    "market_attractiveness_score": 0.8,
+    "competitive_landscape_score": 0.0,
+    "operational_feasibility_score": 0.9061594202898551,
+    "strategic_fit_score": 0.75,
+    "weighted_score": 0.6218478260869565,
+    "rank": 1
+  },
+  {
+    "city": "Nashik",
+    "market_attractiveness_score": 0.17640291807102768,
+    "competitive_landscape_score": 0.49851785038362373,
+    "operational_feasibility_score": 0.6756521739130434,
+    "strategic_fit_score": 0.32056913002173876,
+    "weighted_score": 0.43553967029192364,
+    "rank": 2
+  },
+  {
+    "city": "Mysuru",
+    "market_attractiveness_score": 0.29573466376220925,
+    "competitive_landscape_score": 0.9963167587476979,
+    "operational_feasibility_score": 0.0,
+    "strategic_fit_score": 0.25,
+    "weighted_score": 0.37301285562747677,
+    "rank": 3
+  }
+]
